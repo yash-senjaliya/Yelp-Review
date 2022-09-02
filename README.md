@@ -1,0 +1,1 @@
+Aim of this project is to analyze Yelp reviews dataset and provide business recommendation to the businesses or clients. Sentiment Analysis was performed on the reviews and sentiment score was calculated. Based on this score, top Buisnesses were listed and their customer reviews were analyzed to promote their businesses. 
